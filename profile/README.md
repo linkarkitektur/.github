@@ -1,5 +1,3 @@
-![LINK arkitektur logo black](https://user-images.githubusercontent.com/19936679/195093603-4c83d428-d08c-45d7-8d4d-c568b6e0f8d4.jpg)
-
 ### Welcome to the Github page of LINK Arkitektur!
 
 Being one of the leading digital architect offices comes with some obligations.
