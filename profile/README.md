@@ -13,9 +13,15 @@ Another is making sure that we share some of our development with the community 
 We have sharred a UI/Dashboard plugin for Grasshopper which you can download on [Food4Rhino](https://www.food4rhino.com/en/app/linkdashboards). 
 
 <div>
-  <img src="https://socialify.git.ci/linkarkitektur/LINK_SHARE/image?font=Inter&forks=1&issues=1&language=1&name=1&pattern=Plus&pulls=1&stargazers=1&theme=Auto" alt="LINK_SHARE" width="300" height="300" />
-  <img src="https://socialify.git.ci/linkarkitektur/SpeckleLCA/image?forks=1&issues=1&language=1&name=1&pulls=1&stargazers=1&theme=Auto" alt="SpeckleLCA" width="300" height="300" />
-  <img src="https://socialify.git.ci/linkarkitektur/ReUseX/image?forks=1&issues=1&language=1&name=1&pulls=1&stargazers=1&theme=Auto" alt="ReUseX" width="300" height="300" />
+  <a href="https://github.com/linkarkitektur/LINK_SHARE" target="_blank" rel="noopener noreferrer">
+    <img src="https://socialify.git.ci/linkarkitektur/LINK_SHARE/image?font=Inter&forks=1&issues=1&language=1&name=1&pattern=Plus&pulls=1&stargazers=1&theme=Auto" alt="LINK_SHARE" width="250"/>
+  </a>
+  <a href="https://github.com/linkarkitektur/SpeckleLCA" target="_blank" rel="noopener noreferrer">
+    <img src="https://socialify.git.ci/linkarkitektur/SpeckleLCA/image?forks=1&issues=1&language=1&name=1&pulls=1&stargazers=1&theme=Auto" alt="SpeckleLCA" width="250"/>
+  </a>
+  <a href="https://github.com/linkarkitektur/ReUseX" target="_blank" rel="noopener noreferrer">
+    <img src="https://socialify.git.ci/linkarkitektur/ReUseX/image?forks=1&issues=1&language=1&name=1&pulls=1&stargazers=1&theme=Auto" alt="ReUseX" width="250"/>
+  </a>
 </div>
 
 
